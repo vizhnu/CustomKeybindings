@@ -1,0 +1,9 @@
+# Insert your preferred key mappings here.
+mapkey  ; <c-[>
+mapkey ' ^
+mapkey q H
+mapkey w L
+mapkey s u
+mapkey a H
+mapkey h J
+mapkey l K
